@@ -19,6 +19,7 @@ Sekarang masih mengunakan Markdown Language untuk tampilan indah di git. Dengan 
 >* (1)# h1
 >* (2)## h2
 >* ">" blockquote  
+
 Sementara dalam pembelajaran sering memakai tag berikut:  
 >* html, head, body
 >* title, link
