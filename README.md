@@ -34,5 +34,4 @@ Sekarang masih mengunakan Markdown Language untuk tampilan indah di git. Dengan 
 **Doping** : Coffee, Milo (rumus suci: 2 Milo = 1 Kopi)
 
 ## Kumpulan PR  
-Kumpulan PR saya dapat ditemukan di:   
-github.com/ppsari/tugas/  
+Kumpulan PR saya dapat ditemukan di [tugas](github.com/ppsari/tugas/)  
