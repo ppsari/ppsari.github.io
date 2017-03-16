@@ -24,7 +24,7 @@ Sekarang masih mengunakan Markdown Language untuk tampilan indah di git. Dengan 
 ## ABOUT ME
 **Nickname** : Poppy / Sari   
 **Race** : Human (ISTP - Ambivert)  
-**Experience** : Backend Programmer @[Binus](www.binusmaya.binus.ac.id), @[pergi.com](www.pergi.com)   
+**Experience** : Backend Programmer @[Binus](https://binusmaya.binus.ac.id/newDefault/login.html), @[pergi.com](https://www.pergi.com/)   
 **Job** : Mahasiswa menunggu wisuda - Freelance - Newbie @fullstack JS   
 **Hobby** :   
 		* Membaca (terutama komik)  
@@ -34,4 +34,4 @@ Sekarang masih mengunakan Markdown Language untuk tampilan indah di git. Dengan 
 **Doping** : Coffee, Milo (rumus suci: 2 Milo = 1 Kopi)
 
 ## Kumpulan PR  
-Kumpulan PR saya dapat ditemukan di [tugas](tugas/)  
+Kumpulan PR saya dapat ditemukan di [tugas](https://github.com/ppsari/tugas)  
