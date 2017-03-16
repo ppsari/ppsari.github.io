@@ -35,3 +35,6 @@ Sekarang masih mengunakan Markdown Language untuk tampilan indah di git. Dengan 
 
 ## Kumpulan PR  
 Kumpulan PR saya dapat ditemukan di [tugas](https://github.com/ppsari/tugas)  
+
+## FUTURE PLANS
+Rencana mengembangkan halaman ini adalah dengan membuat halaman ini menjadi lebih berseni (mencari tampilan yang lebih sesuai) dan dengan pemberian konten yang baik
