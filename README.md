@@ -2,7 +2,7 @@
 
 > ### A journey of thousand miles begins with a single step  
 
-**Backstory** : 
+## BACKSTORY 
 >Seorang js novice yang bergabung dengan Hacktiv8 untuk membuat website yang memecahkan isu pendidikan anak, sosial, dan SARA bersama. Akibat ketergantungan berlebih pada orang networking dan front menjadi tidak memiliki jiwa seni dan pengalaman dengan server 
 
 ## ABOUT THIS WEBSITE
@@ -10,15 +10,15 @@ Situs ini merupakan dokumentasi tentang pelajaran dari Hacktiv8 yang juga menjad
 
 ## USED TAGS & SYNTAXED
 Sekarang masih mengunakan Markdown Language untuk tampilan indah di git. Dengan keterangan sebagai berikut
-* "_" = italic
-* "**" = bold
-* "[link name] (url)"
-* "! [alt] (imgurl)"
-* "* ul"
-* "1 li"
-* (1)# h1
-* (2)## h2
-* ">" blockquote
+>* "_" = italic
+>* "**" = bold
+>* "[link name] (url)"
+>* "! [alt] (imgurl)"
+>* "* ul"
+>* "1 li"
+>* (1)# h1
+>* (2)## h2
+>* ">" blockquote
 
 
 ## ABOUT ME
