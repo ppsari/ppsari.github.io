@@ -18,8 +18,16 @@ Sekarang masih mengunakan Markdown Language untuk tampilan indah di git. Dengan 
 >* "1 li"
 >* (1)# h1
 >* (2)## h2
->* ">" blockquote
-
+>* ">" blockquote  
+Sementara dalam pembelajaran sering memakai tag berikut:  
+>* html, head, body
+>* title, link
+>* table, thead, tbody, tfoot, tr, th, td
+>* ul, ol, li
+>* div
+>* p
+>* label
+>* form, textarea, input, select, fieldset, legend, button
 
 ## ABOUT ME
 **Nickname** : Poppy / Sari   
